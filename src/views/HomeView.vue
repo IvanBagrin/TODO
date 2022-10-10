@@ -43,7 +43,7 @@ export default {
     <div>
       <bar-menu />
     </div>
-    
+    <div></div>
     <div class="tasks">
       <task-status
         name="TODO"
